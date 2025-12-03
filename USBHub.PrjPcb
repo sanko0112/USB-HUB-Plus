@@ -85,7 +85,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HOIFBZFE
 
 [Document3]
-DocumentPath=Sheet1.SchDoc
+DocumentPath=Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -153,160 +153,152 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for USB3-hub\Design Rule Check - PCB2.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for USBHub\Design Rule Check - PCB2.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for USBHub\PCB2.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for USBHub\PCB2.REP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for USBHub\PCB2_Bottom_3D_Body.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for USBHub\PCB2_Bottom_Assembly.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for USBHub\PCB2_Bottom_Component_Center.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for USBHub\PCB2_Bottom_Courtyard.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for USBHub\PCB2_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for USBHub\PCB2_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for USBHub\PCB2_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for USBHub\PCB2_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for USBHub\PCB2_Drawing_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for USBHub\PCB2_Drillmap_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for USBHub\PCB2_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for USBHub\PCB2_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for USBHub\PCB2_Mechanical_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for USBHub\PCB2_Mechanical_13.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for USBHub\PCB2_Mechanical_15.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for USBHub\PCB2_NPTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for USBHub\PCB2_Pads_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for USBHub\PCB2_Pads_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for USBHub\PCB2_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for USBHub\PCB2_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for USBHub\PCB2_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for USBHub\PCB2_PTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for USBHub\PCB2_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for USBHub\PCB2_Soldermask_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for USBHub\PCB2_Top_3D_Body.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for USBHub\PCB2_Top_Assembly.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for USBHub\PCB2_Top_Component_Center.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for USBHub\PCB2_Top_Courtyard.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for USBHub\PCB2_Top_Designator.gbr
 DItemRevisionGUID=
 
 [Parameter1]
-Name=G.Author
-Value=Lázár Sándor
+Name=G.URL
+Value=www.lzrsystems.com
 
 [Parameter2]
-Name=G.Description
-Value=
-
-[Parameter3]
-Name=G.Project
-Value=
-
-[Parameter4]
-Name=G.Revision
-Value=
-
-[Parameter5]
 Name=G.Title
 Value=
 
+[Parameter3]
+Name=G.Revision
+Value=Rev. 1
+
+[Parameter4]
+Name=G.Project
+Value=USBHub
+
+[Parameter5]
+Name=G.Description
+Value=7 port USB hub with UART and STLINK ISP
+
 [Parameter6]
-Name=G.URL
-Value=www.lzrsystems.com
+Name=G.Author
+Value=Lázár Sándor
 
 [Configuration1]
 Name=Sources
