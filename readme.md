@@ -70,13 +70,13 @@
 
 ### 📐 Schematics
 **Block Diagram:**
-![Block Diagram](Pictures/USBHub-BlockDiagram.png)
+![Block Diagram](Pictures/USBHub-BlockDiagram.svg)
 
 **Main Schematic - Hubs & Peripherals:**
-![Main Schematic](Pictures/USBHub-Peripherals.png)
+![Main Schematic](Pictures/USBHub-Peripherals.svg)
 
 **Connectors & Load Switches:**
-![Connectors Schematic](Pictures/USBHub-Ports.png)
+![Connectors Schematic](Pictures/USBHub-Ports.svg)
 
 ## 🔌 Port Mapping
 
