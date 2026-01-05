@@ -65,18 +65,18 @@
 - **Mounting**: 4× M2.5 mounting holes
 
 ### PCB 3D Renders
-![3D Board Top](Pictures\usbHub-front.png)
-![3D Board Bottom](Pictures\usbHub-back.png)
+![3D Board Top](Pictures/usbHub-front.png)
+![3D Board Bottom](Pictures/usbHub-back.png)
 
 ### 📐 Schematics
 **Block Diagram:**
-![Block Diagram](Pictures\USBHub-BlockDiagram.png)
+![Block Diagram](Pictures/USBHub-BlockDiagram.png)
 
 **Main Schematic - Hubs & Peripherals:**
-![Main Schematic](Pictures\USBHub-Peripherals.png)
+![Main Schematic](Pictures/USBHub-Peripherals.png)
 
 **Connectors & Load Switches:**
-![Connectors Schematic](Pictures\USBHub-Ports.png)
+![Connectors Schematic](Pictures/USBHub-Ports.png)
 
 ## 🔌 Port Mapping
 
